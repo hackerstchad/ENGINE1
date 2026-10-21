@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Agent Alpha",
+    "role": "Analyste OSINT",
+    "avatar": "https://i.pravatar.cc/150?u=alpha",
+    "email": "alpha@osint.local",
+    "bio": "Spécialiste en investigation numérique et recoupement de sources ouvertes.",
+    "tags": ["osint", "analyst", "web"],
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Agent Beta",
+    "role": "Investigateur Web",
+    "avatar": "https://i.pravatar.cc/150?u=beta",
+    "email": "beta@osint.local",
+    "bio": "Expert en recherche avancée sur réseaux sociaux et moteurs spécialisés.",
+    "tags": ["social", "images", "videos"],
+    "active": false
+  },
+  {
+    "id": 3,
+    "name": "Agent Gamma",
+    "role": "Data Journalist",
+    "avatar": "https://i.pravatar.cc/150?u=gamma",
+    "email": "gamma@osint.local",
+    "bio": "Journaliste de données et vérification d'informations en temps réel.",
+    "tags": ["news", "academic", "maps"],
+    "active": false
+  },
+  {
+    "id": 4,
+    "name": "Agent Delta",
+    "role": "Cyber Tracker",
+    "avatar": "https://i.pravatar.cc/150?u=delta",
+    "email": "delta@osint.local",
+    "bio": "Suivi de code source, packages et infrastructure technique.",
+    "tags": ["code", "packages", "docker"],
+    "active": false
+  }
+]
